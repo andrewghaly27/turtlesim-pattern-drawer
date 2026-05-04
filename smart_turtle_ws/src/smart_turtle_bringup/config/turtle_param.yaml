@@ -1,0 +1,4 @@
+/command_publisher:
+  ros__parameters:
+    pattern: "circle"
+    speed: 2.0

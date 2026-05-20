@@ -107,6 +107,6 @@ The reset node should clear or restart the environment every 10 seconds, while a
 ## Changing Parameters
 
 ```bash
-ros2 param set /command_publisher pattern "<CHOOSE-THE-PATTERN>"
-ros2 param set /command_publisher speed <CHOOSE-THE-SPEED>
+ros2 param set /command_publisher pattern "<choose-the-pattern>"
+ros2 param set /command_publisher speed <choose-the-speed>
 ```
